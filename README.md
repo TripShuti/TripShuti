@@ -23,7 +23,9 @@
 
 <img align="left" width="40%" src="https://github.com/user-attachments/assets/da2af0a4-ec93-4d38-8681-2fd6ae716ccb"/>
 
-<b>Homelab фром scratch(scrap)</b>
+<b>
+ <img src="https://media2.giphy.com/media/lnD5xdflbm41U8Izqe/giphy.gif" width="8%">
+  Homelab фром scratch(scrap)</b>
 
 <pre>
     trip@HomeServer                docker <a href="https://github.com/Finsys/dockhand">dockhand</a>
@@ -37,7 +39,9 @@ memory  8gb DDR3            | <a href="https://github.com/tailscale/tailscale">t
 </pre>
 
 <br clear="left"/>
-<h1> </h1>
+
+
+
 <p>
   <img align="right" width="40%" src="https://github.com/user-attachments/assets/c351c5c1-45d9-419d-8899-a018a49d40b1"/>
   <b>Мейн пк</b><br>
@@ -54,3 +58,11 @@ memory  8gb DDR3            | <a href="https://github.com/tailscale/tailscale">t
 </p>
 <br clear="right"/>
 
+<h1 align="center"> <img src="https://media2.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="8%"> Зірка програми <img src="https://media2.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="8%"> </h1>
+<br>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/2xjHyAe4w3z0KmzoNv/giphy.gif" width="20%">
+  <img src="https://github.com/user-attachments/assets/8712b974-6209-4a96-ad8e-a1b6fec6330d" width="45%">
+  <img src="https://media0.giphy.com/media/2xjHyAe4w3z0KmzoNv/giphy.gif" width="20%">
+</p>
