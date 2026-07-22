@@ -14,6 +14,10 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/MC1jAwPJCAXWx11PNX/giphy.gif" width="4%">
   <a href="https://reddit.com/user/TripShuti" target="_blank"><img src="https://img.shields.io/badge/Reddit-1d2021?style=for-the-badge&logo=reddit&logoColor=FF4500" /></a>&nbsp;<a href="https://x.com/TripShuti" target="_blank"><img src="https://img.shields.io/badge/X-1d2021?style=for-the-badge&logo=x&logoColor=ebdbb2" /></a>&nbsp;<a href="https://steamcommunity.com/id/TripShuti" target="_blank"><img src="https://img.shields.io/badge/Steam-1d2021?style=for-the-badge&logo=steam&logoColor=98971a" /></a>&nbsp;<a href="https://psnprofiles.com/TripShuti" target="_blank"><img src="https://img.shields.io/badge/PlayStation-1d2021?style=for-the-badge&logo=playstation&logoColor=003791" /></a>
+<a href="https://akasha.cv/profile/716004704" target="_blank">
+  <img src="https://img.shields.io/badge/Genshin(Akasha)-1d2021?style=for-the-badge&logo=apacheairflow&logoColor=C9A959" />
+
+
   <img src="https://media1.giphy.com/media/MC1jAwPJCAXWx11PNX/giphy.gif" width="4%">
 </p>
 <h1> </h1>
