@@ -20,7 +20,7 @@
 <h1> </h1>
 <br>
 
-<img align="left" width="40%" src="https://github.com/user-attachments/assets/da2af0a4-ec93-4d38-8681-2fd6ae716ccb"/>
+<img align="left" width="40%" src="images/homelab.jpg"/>
 
 <b>
  <img src="https://media2.giphy.com/media/lnD5xdflbm41U8Izqe/giphy.gif" width="8%">
@@ -42,7 +42,7 @@ memory  8gb DDR3            | <a href="https://github.com/tailscale/tailscale">t
 
 
 <p>
-  <img align="right" width="40%" src="https://github.com/user-attachments/assets/c351c5c1-45d9-419d-8899-a018a49d40b1"/>
+  <img align="right" width="40%" src="images/pc.jpg"/>
   <b>Мейн пк</b><br>
 <pre>
       /\          os      Arch Linux x86_64
@@ -62,6 +62,6 @@ memory  8gb DDR3            | <a href="https://github.com/tailscale/tailscale">t
 
 <p align="center">
   <img src="https://media0.giphy.com/media/2xjHyAe4w3z0KmzoNv/giphy.gif" width="20%">
-  <img src="https://github.com/user-attachments/assets/8712b974-6209-4a96-ad8e-a1b6fec6330d" width="45%">
+  <img src="images/star.jpg" width="45%">
   <img src="https://media0.giphy.com/media/2xjHyAe4w3z0KmzoNv/giphy.gif" width="20%">
 </p>
